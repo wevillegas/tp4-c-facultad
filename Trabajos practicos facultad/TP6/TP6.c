@@ -12,4 +12,5 @@ int main () {
     area = base * altura;
     printf("El PERIMETRO del rectangulo es: %d\n", perimetro);
     printf("El AREA del rectangulo es: %d\n", area);
+    return 0;
 }

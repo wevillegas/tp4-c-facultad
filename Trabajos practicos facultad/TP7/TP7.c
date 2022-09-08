@@ -12,4 +12,5 @@ int main () {
     printf("El diametro del circulo es: %d\n", diametro);
     printf("El perimetro del circulo es: %d\n", perimetro);
     printf("El area del circulo es: %d\n", area);
+    return 0;
 }

@@ -8,7 +8,7 @@ int main () {
     scanf("%d", &precio);
     iva = (precio * 1.21);
     IB = (precio * 1.025);
-    iva = (precio * 1.015);
+    IM = (precio * 1.015);
     printf("El precio es: %d\n", precio);
     printf("El precio mas IVA es: %d\n", iva);
     printf("El precio mas IB es: %d\n", IB);
